@@ -1,4 +1,8 @@
 const allowedCors = [
+  'http://api.project-movies-exp.nomoredomains.rocks',
+  'https://api.project-movies-exp.nomoredomains.rocks',
+  'http://51.250.87.238',
+  'https://51.250.87.238',
   'http://localhost:3000',
   'http://localhost:3001',
   'http://localhost:4000',
