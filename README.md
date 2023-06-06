@@ -2,4 +2,4 @@
 
 ## Ссылка на проект
 
-<https://api..nomoredomains.rocks/>
+<https://api.project-movies-exp.nomoredomains.rocks/>
