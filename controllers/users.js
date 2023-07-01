@@ -56,7 +56,7 @@ module.exports.login = (req, res, next) => {
         httpOnly: true,
         sameSite: true,
       });
-      res.send({ message: 'Вы вошли!' });
+      res.send({ token });
     })
     .catch(next);
 };
