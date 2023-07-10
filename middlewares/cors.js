@@ -1,4 +1,6 @@
 const allowedCors = [
+  'http://project-movies-exp.nomoreparties.sbs',
+  'https://project-movies-exp.nomoreparties.sbs',
   'http://api.project-movies-exp.nomoredomains.rocks',
   'https://api.project-movies-exp.nomoredomains.rocks',
   'http://51.250.87.238',
